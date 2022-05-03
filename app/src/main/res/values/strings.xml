@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="shop_item">Shop Item</string>
+    <string name="shop_list">Shop List</string>
+</resources>
